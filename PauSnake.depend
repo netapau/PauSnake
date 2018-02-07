@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1320924340 source:c:\cpp\travauxcpp2\pausnake\miniwin.cpp
+	<fstream>
+	<sstream>
+	<queue>
+	<math.h>
+	<process.h>
+	<windows.h>
+	<windowsx.h>
+	"miniwin.h"
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<string>
+	<queue>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xos.h>
+	<X11/Xatom.h>
+	<X11/keysym.h>
+	"miniwin.h"
+
+1320924340 c:\cpp\travauxcpp2\pausnake\miniwin.h
+	<iostream>
+
+1398529408 source:c:\cpp\travauxcpp2\pausnake\main.cpp
+	"miniwin.h"
+	<list>
+
